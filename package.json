@@ -16,9 +16,11 @@
     "commander": "^9.3.0"
   },
   "devDependencies": {
+    "@vue/eslint-config-standard": "^7.0.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^8.17.0",
     "eslint-plugin-vue": "^9.1.0",
+    "postscss": "^1.6.0",
     "stylelint": "^14.8.5",
     "stylelint-config-recommended-vue": "^1.4.0",
     "stylelint-config-standard": "^25.0.0",
