@@ -14,5 +14,16 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^9.3.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.17.0",
+    "eslint-plugin-vue": "^9.1.0",
+    "stylelint": "^14.8.5",
+    "stylelint-config-recommended-vue": "^1.4.0",
+    "stylelint-config-standard": "^25.0.0",
+    "stylelint-config-standard-scss": "^4.0.0",
+    "stylelint-order": "^5.0.0",
+    "stylelint-scss": "^4.2.0"
   }
 }
